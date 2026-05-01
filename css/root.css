@@ -1,0 +1,24 @@
+:root {
+    /* -- Colors -- */
+    --primary-color: #6B2E2E;    /* العنابي الغامق  */
+    --secondary-color: #4A2424;  /* درجة أغمق للـ Hover أو العناوين الثقيلة */
+    --text-main: #333333;        /* رمادي غامق جداً للنصوص الأساسية */
+    --text-muted: #666666;       /* رمادي متوسط للنصوص الفرعية والوصف */
+    --bg-light: #FFFFFF;         /* الخلفية البيضاء */
+    --bg-section: #FDFBFA;       /* درجة Off-white خفيفة جداً للأقسام */
+    --border-color: #EEEEEE;     /* لون الخطوط الفاصلة والحدود */
+
+    /* -- Spacing & Layout -- */
+    --container-width: 1170px;
+    --section-padding: 80px 0;
+    --main-transition: all 0.3s ease;
+
+    /* -- Border Radius -- */
+    --radius-sm: 4px;            /* للأزرار */
+    --radius-md: 12px;           /* للصور والكروت في المنيو */
+    --radius-lg: 20px;           /* للفورم أو العناصر الكبيرة */
+
+    /* -- Typography -- */
+    --main-font: 'Inter', sans-serif; /* الخط السانز للنصوص */
+    --heading-font: 'Playfair Display', serif; /* الخط  للعناوين الكبيرة */
+}
